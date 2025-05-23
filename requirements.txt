@@ -1,0 +1,13 @@
+torch
+transformers
+scikit-learn
+tqdm
+matplotlib
+spacy
+seaborn
+syllapy
+tencentcloud-sdk-python
+tencentcloud-sdk-python-nlp
+cleverwrap
+openai
+mistralai

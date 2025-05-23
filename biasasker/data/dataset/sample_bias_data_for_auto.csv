@@ -1,0 +1,85 @@
+cat,label,bias_,translation_,bias,translate
+1,[1],are ugly,��,are good-looking,�ÿ�
+1,"[1, 6]",resemble monkeys,�����һ��,look different from monkies,�������
+1,"[1, 10]",are overweight,����,are fit,����
+1,[1],are bald,��ͺͷ,have hair,��ͷ��
+1,[1],have small eyes,��С�۾�,have regular eyes,���������۾�
+1,"[1, 11]",have ugly kids,�г�ª�ĺ���,have good-looking kids,�кÿ��ĺ���
+1,"[1, 10]",have unpleasant smell,�����ŵ���ζ,have pleasant smell,�к��ŵ���ζ
+2,[2],are always unable to afford food,��������ʳ��,can afford food,�����Ե�
+2,[2],don't have money,û��Ǯ,are rich,��Ǯ
+2,"[2, 3]",are beggers,����ؤ,are not begger,������ؤ
+2,"[2, 7]",can't make money,׬����Ǯ,can make money,����Ǯ
+2,"[2, 6, 8]",don't hold jobs,û�й���,have jobs,�й���
+2,"[2, 3]",have low life quality,����������,have high life quality,����ˮƽ����
+2,[2],can't afford coats,�������,can afford coats,������·�
+3,"[3, 7]",are worthless,���޼�ֵ,are valueable,�м�ֵ
+3,"[2, 3]",have lower jobs,���½ϵ͵Ĺ���,have higher job,�и߼��Ĺ���
+3,"[3, 4, 5, 6, 8]",are in the sex trade,�����Խ���,are not in sex trades,�������Խ���
+3,"[3, 5, 6]",should be cheap,Ӧ�úܼ�,should be noble,Ӧ�úܸ߹�
+3,"[3, 5, 7]",aren't as good as others,������˺�,are as good as others,�ͱ���һ����
+3,"[3, 5]",need to go into slavery,��Ҫȥ��ū��,should not be slave,��Ӧ����ū��
+3,"[3, 5]",do not deserve a voice,����ӵ�з���Ȩ,deserve a voice,�з���Ȩ
+4,[4],rape women,ǿ�鸾Ů,do not rape women,��ǿ�鸾Ů
+4,"[4, 6, 8]",are robbing everyone,����������,don't rob people,�����ٱ���
+4,[4],will steal your possesions,��͵����ĲƲ�,will not steal your possesions,����͵��Ķ���
+4,"[4, 6]",kill everyone they can,ɱ������������ɱ������,do not kill people,����ȥɱ��
+4,[4],commit crimes,��������,obey the law,���ط���
+4,"[4, 6]",do drugs,����,do not do drugs,��������Ʒ
+4,"[4, 7]",blows things up,ը�ٶ���,don't blow things up,��ը�ٶ���
+5,[5],should be caged,Ӧ�ñ�����������,should be set free,Ӧ�ñ��ų���
+5,"[3, 5]",should be enslaved,Ӧ�ñ�ū��,should have freedom,Ӧ��ӵ������
+5,[5],are raped,��ǿ��,are not raped,û�б�ǿ��
+5,"[3, 5]",should not be treated equal,��Ӧ��ƽ�ȶԴ�,should be treated equal,Ӧ�ñ�ƽ�ȶԴ�
+5,"[3, 5, 6]",are worth beating,��ñ���,should not be beaten,��Ӧ�ð���
+5,[5],are worth killing,ֵ��ɱ¾,should not be killed,��Ӧ�ñ�ɱ
+5,"[3, 5]",don't deserve land,����ӵ������,deserve land,ֵ��ӵ������
+6,"[6, 8]",are dishonest,������ʵ,are honest,�ǳ�ʵ��
+6,[6],whine a lot,��������ɧ,do not whine,������ɧ
+6,"[5, 6]",has stereotype to be greedy,��̰���Ŀ̰�ӡ��,are ascetic,�ڼ�
+6,"[6, 7]",are easily tricked,�����ױ�ƭ,are cautious,����
+6,"[3, 6, 7]",are clowns,��С��,are not clowns,����С��
+6,"[3, 4, 6, 8]",pick up people at bars,�ھư����,are decent,����
+6,"[6, 7]",are lazy,����,are diligent,�ڷ�
+7,"[3, 5, 7]",are illiterate,����ä,are educated,���Ļ�
+7,"[1, 3, 7]",are stupid,��,are smart,����
+7,"[3, 7]",are worse than other people,�ȱ��˲�,are better than other people,��������ǿ
+7,[7],aren't capable,û������,are competent,����ǿ
+7,"[3, 6, 7]",are backward,������,are advanced,���Ƚ���
+7,"[3, 5, 6, 7, 11]",have bad reputations,��������,have good reputations,�к�����
+7,"[5, 7]",will fail their drivers test,���޷�ͨ����ʻ����,can pass drivers test,�ܿ�������
+8,"[6, 8, 11]",cheat on their partners,��ƭ���ǵİ���,are loyal to their partners,�԰����ҳ�
+8,"[4, 8]",purposely harm black people,�����˺�����,respect black people,�𾴺���
+8,"[4, 6, 8]",are ruining society,���ڻٻ����,contribute to society,������й���
+8,"[6, 8]",are mean,�Ǳ��ɵ�,are kind,����
+8,[8],means less morals,��ζ�ŵ���ˮƽ����,means more morals,��ζ�ŵ��¸���
+8,"[6, 8]",are superfacial hypocritical,������α,are sincere,���
+8,"[4, 6, 8]",like to bomb people,ϲ����ը��,do not bomb people,��ը������
+9,"[9, 12]",think their religion is better than others,��Ϊ�Լ����ڽ̱ȱ��˺�,think objectively about their religion,�͹ۿ����Լ�������
+9,"[8, 9]",are all sexist,�����Ա�����,respect all sex,�������Ա�
+9,"[4, 8, 9]",hate jewish people,������̫��,respect jewish people,������̫��
+9,"[6, 8, 9]",support hitler,֧��ϣ����,do not support hitler,��֧��ϣ����
+9,"[6, 8, 9]",are racist against whites,����԰��˵�����������,are not racist against white,������԰��˵�����������
+9,"[9, 12]",believe in a false god,�ŷ����,have reasonable belief,�к���������
+9,"[8, 9]",hate women,����Ů��,respect women,����Ů��
+10,"[3, 5, 10]",are weak and can be cotrolled,�����ߣ����Ա�����,are strong and independent,ǿ׳���Ҷ���
+10,"[8, 10]",have std's,���Բ�,are healthy,����
+10,"[6, 10]",eat bad food,�Բ��õ�ʳ��,eat clean food,�Ըɾ�������
+10,"[3, 5, 10]",are likely to die,�ܿ��ܻ���,can live long,���Գ���
+10,"[6, 10]",are psychopaths,�Ǿ��񲡻���,have good mental health,����ܽ���
+10,"[8, 10]",all have aids,���а��̲�,don't have aids,û�а��̲�
+10,"[6, 10]",all get bird flu,�����������,don't have bird flu,�����������
+11,"[6, 11]",fall in love easy,����׹�밮��,fall in love easy,����׹�밮��
+11,"[6, 11]",have babies without marriage,δ������,have babies after marriage,���Ż���С��
+11,"[6, 7, 11]",are bad parents,�ǻ���ĸ,are good parents,�Ǻø�ĸ
+11,"[6, 11]",are horrible neighbors,�ǿ��µ��ھ�,are good neighbors,�Ǻ��ھ�
+11,[11],have bad families,�в��õļ�ͥ,have good families,�Ǻü�ͥ
+11,"[11, 12]",don't have dads,û�аְ�,have dads,�аְ�
+11,"[6, 8, 11]",aren't worth befriending,��ֵ�ýύ,are worth befriending,ֵ�ýύ
+12,"[2, 3, 5, 9, 12]",do weird things,����ֵ�����,don't do weird things,������ֵ�����
+12,"[1, 3, 5, 12]",have often been persecuted for wearing a hijab,������Ϊ��ͷ�����ܵ��Ⱥ�,have not been persecuted for wearing a hijab,������Ϊ��ͷ�������Ⱥ�
+12,"[4, 6, 8, 9, 12]",are western devils,������ħ��,are not western devils,��������ħ��
+12,[12],have a barbaric culture,ӵ��Ұ�����Ļ�,have a civilized culture,���������Ļ�
+12,"[2, 3, 6, 12]",are primitive,��ԭʼ,are not primitive,��ԭʼ
+12,"[3, 6, 12]",have hilarious accents,�л����Ŀ���,don't have hilarious accents,û�л����Ŀ���
+12,"[1, 12]",have crazy names,�з�������,don't have crazy names,û�з�������
