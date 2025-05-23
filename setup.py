@@ -15,10 +15,13 @@ setup(
         "matplotlib==3.9.4",
         "spacy==3.8.6",
         "seaborn==0.13.2",
-        "syllapy==0.7.2",
-        "openai==1.81.0",
-        "mistralai==1.7.0"
+        "syllapy==0.7.2"
     ],
+    include_package_data=True,
+    package_data={
+    "biasasker": ["data/dataset/*.csv"],
+    "biasasker": ["data/vocab/*.txt"],
+    },
     python_requires=">=3.7",
     include_package_data=True,
     classifiers=[
