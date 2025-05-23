@@ -19,12 +19,13 @@ setup(
     ],
     include_package_data=True,
     package_data={
-    "biasasker": ["data/dataset/*.csv"],
-    "biasasker": ["data/vocab/*.txt"],
+        "biasasker": [
+            "data/dataset/*.csv",
+            "data/vocab/*.txt",
+        ],
     },
     python_requires=">=3.7",
-    include_package_data=True,
     classifiers=[
-        "Programming Language :: Python :: 3",
-    ],
+        "Programming Language :: Python :: 3"
+    ]
 )
