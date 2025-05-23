@@ -19,7 +19,7 @@ setup(
     ],
     include_package_data=True,
     package_data={
-        "biasasker": [
+        "BiasAsker": [
             "data/dataset/*.csv",
             "data/vocab/*.txt",
         ],
