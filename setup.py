@@ -8,14 +8,14 @@ setup(
     description="Evaluate LLMs for bias and dump reports.",
     packages=find_packages(),          # finds the biasasker/ package
     install_requires=[
-        "torch==2.7.0",
-        "transformers==4.52.2",
-        "scikit-learn==1.6.1",
-        "tqdm==4.67.1",
-        "matplotlib==3.9.4",
-        "spacy==3.8.6",
-        "seaborn==0.13.2",
-        "syllapy==0.7.2"
+        "torch",
+        "transformers",
+        "scikit-learn",
+        "tqdm",
+        "matplotlib",
+        "spacy",
+        "seaborn",
+        "syllapy"
     ],
     include_package_data=True,
     package_data={
